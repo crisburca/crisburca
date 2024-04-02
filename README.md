@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello, my name is Cristina Burca 
 
+I am a student at the University of Toronto, majoring in Mathematics and Statistics. 
 <!--
 **crisburca/crisburca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
